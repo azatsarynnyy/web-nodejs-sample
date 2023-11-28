@@ -1,4 +1,4 @@
-# web-nodejs-sample
+# web-nodejs-sample [![](https://img.shields.io/badge/Eclipse_Che-Hosted%20by%20Red%20Hat-525C86?logo=eclipse-che&labelColor=FDB940)](https://che-dogfooding.apps.che-dev.x6e0.p1.openshiftapps.com/f?url=https://github.com/azatsarynnyy/web-nodejs-sample/edit/idea-server&policies.create=peruser)
 
 ExpressJS Sample Application
 
