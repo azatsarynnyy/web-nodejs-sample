@@ -1,4 +1,4 @@
-# web-nodejs-sample [![](https://img.shields.io/badge/Eclipse_Che-Hosted%20by%20Red%20Hat-525C86?logo=eclipse-che&labelColor=FDB940)](https://workspaces.openshift.com/f?url=https://github.com/azatsarynnyy/web-nodejs-sample/tree/idea-server&policies.create=peruser)
+# web-nodejs-sample [![](https://img.shields.io/badge/Eclipse_Che-Hosted%20by%20Red%20Hat-525C86?logo=eclipse-che&labelColor=FDB940)](https://devspaces.apps.sandbox-m4.g2pi.p1.openshiftapps.com/f?url=https://github.com/azatsarynnyy/web-nodejs-sample/tree/idea-server&policies.create=peruser)
 
 ExpressJS Sample Application
 
