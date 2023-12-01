@@ -9,7 +9,7 @@ inline:
     - id: start-idea-server
       exec:
         component: idea-server-runtime
-        commandLine: 'nohup /idea-server/entrypoint-volume.sh > /idea-server/entrypoint-logs.txt 2>&1 &'
+        commandLine: 'nohup /idea-server/entrypoint-volume.sh > /idea-server/std.out 2>&1 &'
   events:
     preStart:
       - init-container
