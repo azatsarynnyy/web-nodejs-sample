@@ -18,7 +18,7 @@ inline:
   components:
     - name: idea-server-injector
       container:
-        image: 'quay.io/azatsary/idea:che'
+        image: 'quay.io/che-incubator/che-idea-dev-server:next'
         volumeMounts:
           - name: idea-server
             path: /idea-server
@@ -43,7 +43,7 @@ inline:
               cookiesAuthEnabled: true
               discoverable: false
               urlRewriteSupported: true
-            targetPort: 3000
+            targetPort: 3400
             exposure: public
             secure: true
             protocol: http
