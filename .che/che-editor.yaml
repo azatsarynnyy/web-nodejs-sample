@@ -34,6 +34,9 @@ inline:
         memoryRequest: 2048Mi
         cpuLimit: 2000m
         cpuRequest: 1500m
+        env:
+          - name: REMOTE_DEV_NEW_UI_ENABLED
+            value: 0
         volumeMounts:
           - name: idea-server
             path: /idea-server
