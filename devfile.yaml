@@ -14,7 +14,7 @@ components:
       mountSources: true
       env:
         - name: REMOTE_DEV_NEW_UI_ENABLED
-          value: 0
+          value: '0'
 
 commands:
   - id: install-dependencies
