@@ -12,9 +12,6 @@ components:
           targetPort: 3000
       memoryLimit: 1G
       mountSources: true
-      env:
-        - name: REMOTE_DEV_NEW_UI_ENABLED
-          value: '0'
 
 commands:
   - id: install-dependencies
