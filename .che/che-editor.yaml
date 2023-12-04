@@ -37,9 +37,6 @@ inline:
         volumeMounts:
           - name: idea-server
             path: /idea-server
-        env:
-          - name: REMOTE_DEV_NEW_UI_ENABLED
-            value: '0'
         endpoints:
           - name: idea-server
             attributes:
